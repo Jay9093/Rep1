@@ -13,7 +13,7 @@ This billing system is super easy to navigate and aims to enhance operational ef
 </details>
 
 <details> <summary
->😉Simple steps to get started:</summary>
+>😉Simple steps to get started</summary>
 
 1. Set up MySQL on your machine and create the necessary databases and tables as outlined under DATABASES_TABLES!</n>
 
