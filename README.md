@@ -1,12 +1,13 @@
 # Supermarket Billing and Management System
 
 Welcome to the Supermarket Billing and Management System, a user friendly application, designed to streamline supermarket operations! 
-👍 Key Features:
+ <details> <summary>👍 Key Features:</summary>
 
 ✔ Robust employee and admin login system with authorization mechanisms.
 ✔ Streamlined item billing process ensuring accuracy and efficiency.
 ✔ Real-time stock and inventory checks integrated with the database for up-to-date information.
 ✔ Smooth checkout experience with automatic price calculation.
+</details>
 
 This billing system is designed to enhance operational efficiency while ensuring data accuracy and security. Whether you're managing employees as an admin or updating stock, customer and billing details as an employee, this system provides the tools you need for seamless supermarket management.
 
