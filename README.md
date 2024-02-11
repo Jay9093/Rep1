@@ -1,8 +1,8 @@
 # Supermarket Billing and Management System
 
-Welcome to the Supermarket Billing and Management System, a user friendly application, designed to streamline supermarket operations! 
+Welcome to my Supermarket Billing and Management System, a user friendly application, designed to streamline supermarket operations! 
 
-This billing system is designed to enhance operational efficiency while ensuring data accuracy and security. Whether you're managing employees as an admin or updating stock, customer and billing details as an employee, this system provides the tools you need for seamless supermarket management.
+This billing system is super easy to navigate and aims to enhance operational efficiency while ensuring data accuracy and security. Whether you're managing employees as an admin, or updating stock, customer and billing details as an employee, this system provides the tools you need for seamless supermarket management.
 
  <details> <summary>👍 Key Features</n></summary>
 
