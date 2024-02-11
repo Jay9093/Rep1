@@ -1,4 +1,4 @@
-# Rep1
+# Supermarket Billing and Management System
 #Frontend - Python TKINTER
 #Backend - MYSQL
 #Hi! This project for python and mysql was my first venture into coding.
